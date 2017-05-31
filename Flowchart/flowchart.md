@@ -5,4 +5,9 @@ Provide ESP8266 based Sonoff by [iTead Studio](https://www.itead.cc/) and Electr
 
 
 
+https://www.draw.io/#Hletsgetbusy%2FTap%2Fmaster%2FFlowchart%2FUntitled%20Diagram.xml
+
+
+
+
 <img src="https://github.com/arendst/arendst.github.io/blob/master/media/sonoff4ch.jpg" height="250" align="right" /> 
