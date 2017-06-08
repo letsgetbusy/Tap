@@ -1,5 +1,5 @@
 # Tap
-Tapparelle Porject
+Tapparelle Project
 
 
 ## Sonoff-Tasmota
